@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "module",
+  "scripts": {
+    "start": "node Host.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3"
+  }
+}
